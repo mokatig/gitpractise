@@ -1,1 +1,1 @@
-Print("you have written your first cod")
+Print("you have written your first code")
